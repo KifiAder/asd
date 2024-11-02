@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Itim&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Oswald:wght@200..700&display=swap');
+
+body {
+	background-color: #f3f3f3;
+	color: #0f141e;
+	font-size: 20px;
+	font-weight: 350;
+	font-family: "Oswald", sans-serif;
+}
+
+.font {
+	 font-style: italic;
+}
+
+.mulish-regular{
+	font-family: "Mulish", sans-serif;
+	font-optical-sizing: auto;
+	font-style: normal;
+}
+
+.mulish-regular2 {
+	font-family: "Mulish", sans-serif;
+	font-weight: 700;
+	font-optical-sizing: auto;
+	font-style: normal;
+}
+
+h1 {
+	font-style: italic;
+	font-weight: 900;
+}
+
+h2 {
+	font-style: italic;
+	font-weight: 900;
+}
+
+h3 {
+	font-style: italic;
+	font-weight: 900;
+}
+
+h4 {
+	font-style: italic;
+	font-weight: 900;
+}
+
+h5 {
+	font-style: italic;
+	font-weight: 900;
+}
+
+img {
+	border-radius: 10px;
+	border: 5px #ffbae2 solid;
+}
+
+.name {
+	font-style: normal;
+	font-weight: 700;
+}
